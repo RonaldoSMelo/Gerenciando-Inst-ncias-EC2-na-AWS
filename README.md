@@ -120,7 +120,7 @@ Este projeto é para fins educacionais e está sob a licença MIT.
 
 ---
 
-**Desenvolvido por**: [Seu Nome]  
+**Desenvolvido por**: Ronaldo Melo
 **Curso**: DIO - Digital Innovation One  
-**Data**: [Data Atual]  
+**Data**: 18/10/2025
 **Versão**: 1.0.0
